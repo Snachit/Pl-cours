@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 540" font-family="Helvetica,Arial,sans-serif">
+<rect width="860" height="540" fill="#ffffff" rx="12"/>
+<text x="430.0" y="30" text-anchor="middle" font-size="17" font-weight="bold" fill="#222">min Z = 3x₁ + 2x₂ → (2 ; 2), Z = 10</text>
+<line x1="60.0" y1="480.0" x2="60.0" y2="60.0" stroke="#eee"/>
+<text x="60.0" y="498.0" text-anchor="middle" font-size="11" fill="#555">0</text>
+<line x1="122.5" y1="480.0" x2="122.5" y2="60.0" stroke="#eee"/>
+<text x="122.5" y="498.0" text-anchor="middle" font-size="11" fill="#555">1</text>
+<line x1="185.0" y1="480.0" x2="185.0" y2="60.0" stroke="#eee"/>
+<text x="185.0" y="498.0" text-anchor="middle" font-size="11" fill="#555">2</text>
+<line x1="247.5" y1="480.0" x2="247.5" y2="60.0" stroke="#eee"/>
+<text x="247.5" y="498.0" text-anchor="middle" font-size="11" fill="#555">3</text>
+<line x1="310.0" y1="480.0" x2="310.0" y2="60.0" stroke="#eee"/>
+<text x="310.0" y="498.0" text-anchor="middle" font-size="11" fill="#555">4</text>
+<line x1="372.5" y1="480.0" x2="372.5" y2="60.0" stroke="#eee"/>
+<text x="372.5" y="498.0" text-anchor="middle" font-size="11" fill="#555">5</text>
+<line x1="435.0" y1="480.0" x2="435.0" y2="60.0" stroke="#eee"/>
+<text x="435.0" y="498.0" text-anchor="middle" font-size="11" fill="#555">6</text>
+<line x1="497.5" y1="480.0" x2="497.5" y2="60.0" stroke="#eee"/>
+<text x="497.5" y="498.0" text-anchor="middle" font-size="11" fill="#555">7</text>
+<line x1="560.0" y1="480.0" x2="560.0" y2="60.0" stroke="#eee"/>
+<text x="560.0" y="498.0" text-anchor="middle" font-size="11" fill="#555">8</text>
+<line x1="60.0" y1="480.0" x2="560.0" y2="480.0" stroke="#eee"/>
+<line x1="60.0" y1="427.5" x2="560.0" y2="427.5" stroke="#eee"/>
+<text x="52.0" y="431.5" text-anchor="end" font-size="11" fill="#555">1</text>
+<line x1="60.0" y1="375.0" x2="560.0" y2="375.0" stroke="#eee"/>
+<text x="52.0" y="379.0" text-anchor="end" font-size="11" fill="#555">2</text>
+<line x1="60.0" y1="322.5" x2="560.0" y2="322.5" stroke="#eee"/>
+<text x="52.0" y="326.5" text-anchor="end" font-size="11" fill="#555">3</text>
+<line x1="60.0" y1="270.0" x2="560.0" y2="270.0" stroke="#eee"/>
+<text x="52.0" y="274.0" text-anchor="end" font-size="11" fill="#555">4</text>
+<line x1="60.0" y1="217.5" x2="560.0" y2="217.5" stroke="#eee"/>
+<text x="52.0" y="221.5" text-anchor="end" font-size="11" fill="#555">5</text>
+<line x1="60.0" y1="165.0" x2="560.0" y2="165.0" stroke="#eee"/>
+<text x="52.0" y="169.0" text-anchor="end" font-size="11" fill="#555">6</text>
+<line x1="60.0" y1="112.5" x2="560.0" y2="112.5" stroke="#eee"/>
+<text x="52.0" y="116.5" text-anchor="end" font-size="11" fill="#555">7</text>
+<line x1="60.0" y1="60.0" x2="560.0" y2="60.0" stroke="#eee"/>
+<text x="52.0" y="64.0" text-anchor="end" font-size="11" fill="#555">8</text>
+<polygon points="435.0,480.0 560.0,480.0 560.0,60.0 60.0,60.0 60.0,165.0 185.0,375.0 247.5,427.5" fill="#7bd389" fill-opacity="0.45" stroke="#2e8b57" stroke-width="2"/>
+<line x1="60.0" y1="480.0" x2="560.0" y2="480.0" stroke="#222" stroke-width="1.6"/>
+<line x1="60.0" y1="480.0" x2="60.0" y2="60.0" stroke="#222" stroke-width="1.6"/>
+<text x="570.0" y="485.0" text-anchor="start" font-size="15" font-weight="bold">x₁</text>
+<text x="68.0" y="74.0" font-size="15" font-weight="bold">x₂</text>
+<text x="600" y="60" font-size="13" font-weight="bold" fill="#333">Légende</text>
+<line x1="60.0" y1="165.0" x2="247.5" y2="480.0" stroke="#e6194b" stroke-width="2.4"/>
+<rect x="600" y="69" width="14" height="4" fill="#e6194b"/><text x="620" y="75" font-size="12" fill="#e6194b" font-weight="bold">2x₁ + x₂ ≥ 6</text>
+<line x1="60.0" y1="270.0" x2="310.0" y2="480.0" stroke="#1f77b4" stroke-width="2.4"/>
+<rect x="600" y="87" width="14" height="4" fill="#1f77b4"/><text x="620" y="93" font-size="12" fill="#1f77b4" font-weight="bold">x₁ + x₂ ≥ 4</text>
+<line x1="60.0" y1="375.0" x2="435.0" y2="480.0" stroke="#2ca02c" stroke-width="2.4"/>
+<rect x="600" y="105" width="14" height="4" fill="#2ca02c"/><text x="620" y="111" font-size="12" fill="#2ca02c" font-weight="bold">x₁ + 3x₂ ≥ 6</text>
+<line x1="60.0" y1="217.5" x2="268.33333333333337" y2="480.0" stroke="#7b2cbf" stroke-width="2.2" stroke-dasharray="8 6"/>
+<rect x="600" y="123" width="14" height="4" fill="#7b2cbf"/><text x="620" y="129" font-size="12" fill="#7b2cbf" font-weight="bold">Droite Z = 10</text>
+<circle cx="60.0" cy="165.0" r="4.5" fill="#1d3557"/><text x="67.0" y="158.0" font-size="12" fill="#1d3557" font-weight="bold">(0;6)</text>
+<circle cx="247.5" cy="427.5" r="4.5" fill="#1d3557"/><text x="254.5" y="420.5" font-size="12" fill="#1d3557" font-weight="bold">(3;1)</text>
+<circle cx="435.0" cy="480.0" r="4.5" fill="#1d3557"/><text x="442.0" y="473.0" font-size="12" fill="#1d3557" font-weight="bold">(6;0)</text>
+<circle cx="185.0" cy="375.0" r="8" fill="#d00000" stroke="#fff" stroke-width="2"/>
+<text x="196.0" y="393.0" font-size="13" fill="#d00000" font-weight="bold">Optimum (2 ; 2)</text>
+</svg>

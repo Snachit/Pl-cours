@@ -1,0 +1,38 @@
+/* ===== Vault Recherche Opérationnelle — couleurs ===== */
+body {
+  --ro-violet: #8e44ad; --ro-bleu: #2471a3; --ro-vert: #1e8449;
+  --ro-orange: #d35400; --ro-rouge: #c0392b; --ro-jaune: #f1c40f;
+}
+.theme-dark {
+  --ro-violet: #c39bd3; --ro-bleu: #7fb3d5; --ro-vert: #7dcea0;
+  --ro-orange: #f0b27a; --ro-rouge: #f1948a; --ro-jaune: #f7dc6f;
+}
+/* Titres colorés */
+.markdown-rendered h1, .cm-header-1 { color: var(--ro-violet) !important; border-bottom: 3px solid var(--ro-violet); padding-bottom: 4px; }
+.markdown-rendered h2, .cm-header-2 { color: var(--ro-bleu) !important; border-left: 6px solid var(--ro-bleu); padding-left: 10px; }
+.markdown-rendered h3, .cm-header-3 { color: var(--ro-vert) !important; }
+.markdown-rendered h4, .cm-header-4 { color: var(--ro-orange) !important; }
+
+/* Tableaux */
+.markdown-rendered table { border-collapse: collapse; margin: 8px 0; }
+.markdown-rendered th { background: rgba(36,113,163,0.18); color: var(--ro-bleu); text-align: center !important; }
+.markdown-rendered td { text-align: center !important; }
+.markdown-rendered tr:nth-child(even) td { background: rgba(127,127,127,0.06); }
+
+/* Marqueurs dans les tableaux du simplexe */
+.pv  { background: #f1c40f; color: #000; font-weight: 800; padding: 1px 6px; border-radius: 4px; border: 2px solid #c0392b; }
+.in  { background: rgba(39,174,96,0.30); font-weight: 700; padding: 1px 5px; border-radius: 4px; }
+.out { background: rgba(231,76,60,0.30); font-weight: 700; padding: 1px 5px; border-radius: 4px; }
+.ok  { background: rgba(52,152,219,0.30); font-weight: 700; padding: 1px 5px; border-radius: 4px; }
+.res { color: var(--ro-rouge); font-weight: 800; }
+
+/* Callouts personnalisés */
+.callout[data-callout="definition"] { --callout-color: 36, 113, 163;  --callout-icon: lucide-book-open; }
+.callout[data-callout="methode"]    { --callout-color: 30, 132, 73;   --callout-icon: lucide-list-checks; }
+.callout[data-callout="piege"]      { --callout-color: 192, 57, 43;   --callout-icon: lucide-alert-triangle; }
+.callout[data-callout="examen"]     { --callout-color: 230, 126, 34;  --callout-icon: lucide-star; }
+.callout[data-callout="formule"]    { --callout-color: 142, 68, 173;  --callout-icon: lucide-sigma; }
+.callout[data-callout="astuce"]     { --callout-color: 23, 162, 184;  --callout-icon: lucide-lightbulb; }
+.callout[data-callout="theoreme"]   { --callout-color: 155, 89, 182;  --callout-icon: lucide-landmark; }
+.callout[data-callout="solution"]   { --callout-color: 39, 174, 96;   --callout-icon: lucide-check-circle; }
+.callout[data-callout="exercice"]   { --callout-color: 211, 84, 0;    --callout-icon: lucide-pencil; }
